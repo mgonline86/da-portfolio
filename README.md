@@ -84,7 +84,7 @@ To get a local copy up and running, follow these steps:
 
 ## Contact
 
-For any inquiries or feedback, please contact me via [email](mailto:mgonline86@yahoo.com).
+For any inquiries or feedback, please contact me via [email](mailto:m.gamal.develop@gmail.com).
 
 - GitHub: [mgonline86](https://github.com/mgonline86)
 - LinkedIn: [Mohamed Gamal Elsayed](https://www.linkedin.com/in/mohamed-gamal-elsayed/)
